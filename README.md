@@ -14,6 +14,7 @@
 | **$iUSD** | <div align="center"><img style="height: 30px; width: 30px;" src="https://github.com/TURTLdao/token-images/blob/main/iusd.png?raw=true"/></div> |
 | **$MELD** | <div align="center"><img style="height: 30px; width: 30px;" src="https://github.com/TURTLdao/token-images/blob/main/meld.png?raw=true"/></div> |
 | **$MILK** | <div align="center"><img style="height: 30px; width: 30px;" src="https://github.com/TURTLdao/token-images/blob/main/milk.png?raw=true"/></div> |
+| **$MIN** | <div align="center"><img style="height: 30px; width: 30px;" src="https://github.com/TURTLdao/token-images/blob/main/min.png?raw=true"/></div> |
 | **$NEWM** | <div align="center"><img style="height: 30px; width: 30px;" src="https://github.com/TURTLdao/token-images/blob/main/newm.png?raw=true"/></div> |
 | **$NTX** | <div align="center"><img style="height: 30px; width: 30px;" src="https://github.com/TURTLdao/token-images/blob/main/ntx.png?raw=true"/></div> |
 | **$SHEN** | <div align="center"><img style="height: 30px; width: 30px;" src="https://github.com/TURTLdao/token-images/blob/main/shen.png?raw=true"/></div> |
